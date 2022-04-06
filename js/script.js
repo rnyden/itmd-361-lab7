@@ -1,7 +1,7 @@
 function init(){
   function alertPopUp(){
     var textIn = document.getElementById("entryinput").value;
-		var textOut = document.getElementById("textoutput")
+    var textOut = document.getElementById("textoutput")
     alert("Reeanna Nyden: " + textIn);
     textOut.innerHTML = textIn
   }
