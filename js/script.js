@@ -8,5 +8,4 @@ function init(){
 	var alertButton = document.getElementById("entrybutton");
   alertButton.addEventListener('click', alertPopUp);
 }
-
 window.addEventListener('load', init);
